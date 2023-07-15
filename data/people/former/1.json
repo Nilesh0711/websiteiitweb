@@ -1,0 +1,20 @@
+{
+  "id": "1",
+  "status": "former",
+  "name": "Former Bhavesh Gupta",
+  "work": "PhD Scholar",
+  "description": "I am a first-year PhD in the Department of Physics at the Indian Institute of Technology Madras. I work in the field of Quantum Information and Computation under the supervision of Dr. Prabha Mandayam and co-supervised by Dr. Chandrashekar Radhakrishnan. My current research aims to Quantum key Distribution (QKD), Quantum Error Correction (QEC) and Quantum Fault Tolerance in the Noisy intermediate-scale quantum (NISQ) era.",
+  "interest": "Besides my research, I also do swimming and gym, though I do not find much time. Sometimes, I also play table-tennis and watch geopolitics.",
+  "motivationTitle":"Motivation for pursuing a Ph.D. in Quantum Information and Computing",
+  "motivationA": "I came across quantum mechanics and quantum statistical mechanics as one of my core courses and advanced quantum mechanics and quantum field theory as my professional electives during my undergrad and postgrad. Thus, I got exposure to some problems and research in quantum in- formation and computing. The most promising application that attracted me was in Computational Chemistry to provide immense power to the machine to successfully map the molecules, which, in turn, potentially opens opportunities for pharmaceutical research like drug design & development. With the help of artificial intelligence & machine learning, Quantum computing can help develop various techniques to combat cybersecurity threats. I found problems related to decoherence/noise affecting qubits most interesting. However, as the number of applications increased, it became challenging for traditional computers to match the accuracy and speed.",
+  "motivationB": "Moreover, quantum computing can help in processing complex problems in significantly less time with quality, even though all my past work experience was in gravity. Now I want to work more on technological-driven problems. Lastly, I did not had any professors and projects in my undergrad and postgrad institute related to quantum information and computing. Honestly, I did not enjoy gravity as much as quantum computing. Thus I ended up interested in learning Quantum Information and Computing. My broad research interests are Quantum Error correction and Quantum cryptography as a tool to explore nature's most beautiful and elegant structures.",
+  "links": {
+    "image":"https://drive.google.com/uc?export=view&id=1jG6V7tSpO2U3Xq9G5HsLKiuO8i1Voxmr",
+    "email": "ph22d033@smail.iitm.ac.in",
+    "scholar": "https://scholar.google.com/citations?hl=en&user=O6da4soAAAAJ&authuser=1&scilu=&scisig=ACseELIAAAAAZGnoTk3wZe_5IjMu9B8U9H6unsY&gmla=AHoSzlVNLwPEvUR0q6sMvcplEdPenj43RrPY0LwyqRHpOBnYE6ok95VO13qEdkA52dEOcZY-Esz9AjHNmbH1Ry0bHNkznlA2cCd9Ulc&sciund=2492603626801537851",
+    "youtube": "https://www.youtube.com/@bhaveshgupta2760",
+    "linkedin": "https://linkedin.com/in/bhavesh-guptaa",
+    "github": "https://github.com/bhaveshgupta1605",
+    "cv": "https://drive.google.com/file/d/1YEczwIuxhio5Sitjst4zuADWr-M_piTr/view?usp=share_link"
+  }
+}
